@@ -3,8 +3,8 @@ This project extracts basic info from news articles
 
 
 befor running the script, do the following:
-1) create a folder called "countries" (if it doesn't already exist). Add all the news folders (by country) this folder.
-2) create a folder "outouts" (if it doesn't already exist) for saving the final output.
+1) Under section 2, change 'parent_folder' to the path to the parent folder (i.e the folder that contains the news files by country) on your machine  
+2) Under the same section 2, Change "outputs" to the path where you wan to to store your final csv results.
 
 The script works based on the follwing general assumptions (which hold true for hundreds of files and thousands of news articles tested):
 1) files are organised by country. For each country, the folder name is the nam eof that country. All country folders are inside a folder called 'çountries'
