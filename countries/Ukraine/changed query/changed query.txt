@@ -1,0 +1,1 @@
+(foreign exchange or fx or forex or currenc*) and (interven* or operation*) and (Ukraine near10 interven*) and (rst=trtw or rst=tprw or rst=tdjw) and (central bank or ministry of finance or treasury ministry or monetary authority) and hryvnia*
